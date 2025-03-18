@@ -15,7 +15,7 @@ LayerEdge is a decentralized platform built to enhance Bitcoin’s ecosystem by 
 - Currently, LayerEdge runs an incentivized testnet (Season 2 ends March 22, 2025), where users earn EDGE points by running nodes and verifying proofs. Its goal is to create a “Bitcoin-backed internet,” extending Bitcoin’s utility to scalable, decentralized systems.
 - LayerEdge Season 1 (Jan 22 - Feb 28, 2025) was the first testnet phase, rewarding users with EDGE points for running light nodes (1 point/second, 50hrs uptime required) and completing tasks, testing network stability and decentralization.
 
-### Funding 
+## Funding 
 LayerEdge raised an undisclosed Pre-Seed round on March 29, 2024, led by Blockchain Founders Fund with five other investors, including BreakOrbit Venture and Paul Taylor, to support its Bitcoin scalability mission.
 
 1️⃣ Check: https://cryptorank.io/ico/layeredge#funding-rounds
