@@ -9,7 +9,8 @@
 ### Refer Code - wCRDJR3W
 
 ### 2️⃣ Put my refer code > Connect Wallet & Click Start Node & Run it
-        Earn Points For Each Session You Run (Collects as much as possible points -- Increase ur Uptime as much as poosible)
+
+- Earn Points For Each Session You Run (Collects as much as possible points -- Increase ur Uptime as much as poosible)
 
 ⚠️Note:- In mobile Use Desktop Mode To Connect Metamask Wallet
 📒Note:- Node Must Be Restarted Manually Every 24 Hours
