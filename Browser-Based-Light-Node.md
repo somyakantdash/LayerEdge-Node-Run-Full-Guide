@@ -13,6 +13,7 @@
 - Earn Points For Each Session You Run (Collects as much as possible points -- Increase ur Uptime as much as poosible)
 
 ⚠️Note:- In mobile Use Desktop Mode To Connect Metamask Wallet
+
 📒Note:- Node Must Be Restarted Manually Every 24 Hours
 
 ![6093588094080107836](https://github.com/user-attachments/assets/358cb1d0-4829-4164-8f92-03b0d8ee6b4c)
