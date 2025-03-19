@@ -22,7 +22,7 @@ LayerEdge raised an undisclosed Pre-Seed round on March 29, 2024, led by Blockch
 
 2️⃣ Check: https://sosovalue.com/project/layeredge-1844239676910555137
 
-## Run Browser Based Light Node Node [Check Out](Browser-Based-Light-Node.md)
+## Run Browser Based Light Node [Check Out](Browser-Based-Light-Node.md)
 
 ## Run CLI Node [Check Out](CLI-Node.md)   
 
