@@ -11,6 +11,9 @@ For VPS Only
 ```
 apt install screen -y
 ```
+```
+screen -S edge
+```
 
 2️⃣ Download Some Files
 ```
