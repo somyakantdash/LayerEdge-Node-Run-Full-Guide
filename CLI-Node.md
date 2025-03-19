@@ -89,4 +89,33 @@ go build
 ./light-node
 ```
 
+## To check if your CLI Node’s Public Key is already generated in your WSL
+
+1️⃣ Check for Existing Public Key
+Run the following command in your WSL terminal:
+```
+cd ~/light-node
+```
+```
+ls ~/.layeredge/light-node/
+```
+Look for a file named public_key.txt or key_info.json.
+
+If one of them exists, you can display its contents
+```
+cat ~/.layeredge/light-node/public_key.txt
+```
+OR
+```
+cat ~/.layeredge/light-node/key_info.json
+```
+If you see a public key in the output, your node key is already generated.
+Copy this key and use it to link with the LayerEdge Dashboard.
+
+2️⃣ Generate a New Public Key (If Not Found)
+If the above files do not exist, generate a new public key using:
+```
+./light-node generate-key
+```
+This should create the required files and display your public key.
 
