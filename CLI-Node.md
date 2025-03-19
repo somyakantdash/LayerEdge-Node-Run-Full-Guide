@@ -89,10 +89,10 @@ go build
 ./light-node
 ```
 
-## To check if your CLI Node’s Public Key is already generated in your WSL
+## Open Another Window for WSL or VPS (do not close the previous one)
+- To check if your CLI Node’s Public Key is already generated in your WSL
 
 1️⃣ Check for Existing Public Key
-Run the following command in your WSL terminal:
 ```
 cd ~/light-node
 ```
