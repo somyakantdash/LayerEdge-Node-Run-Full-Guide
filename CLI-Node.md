@@ -78,6 +78,7 @@ go build
 ```
 - Then Go to Dashboard: https://dashboard.layeredge.io/tasks
 - Click "+" icon in CLI-Based Node > Then put ur Public Key & Verify it
+  
 ![Screenshot 2025-03-20 085031](https://github.com/user-attachments/assets/a7a5447b-558e-4861-99fb-71f07c4a16ac)
 
 
