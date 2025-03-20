@@ -77,6 +77,7 @@ cd light-node
 go build
 ./light-node
 ```
+![1_2brKNbCUBLzYxv9MjFH24g](https://github.com/user-attachments/assets/308d28ac-8a38-48f1-b339-94e3b8f5e684)
 
 Start For Next Day
 Open WSL
