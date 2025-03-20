@@ -79,14 +79,15 @@ go build
 ![Screenshot 2025-03-20 085031](https://github.com/user-attachments/assets/a7a5447b-558e-4861-99fb-71f07c4a16ac)
 
 
-Start For Next Day
-Open WSL
+## 🔶For Next Day Run This Command
+
+#1 Open WSL and Put this Command 
 ```
 cd light-node
 cd risc0-merkle-service
 cargo build && cargo run
 ```
-Open WSL Again
+Open Another Window for WSL
 ```
 cd light-node
 go build
