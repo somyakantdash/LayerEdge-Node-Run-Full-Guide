@@ -12,7 +12,7 @@ LayerEdge is a decentralized platform built to enhance Bitcoin’s ecosystem by 
 - Versatility: Supports applications beyond finance, like AI and IoT, via verifiable computation.
 
 ## Airdrop Details
-- Currently, LayerEdge runs an incentivized testnet (Season 2 ends March 22, 2025), where users earn EDGE points by running nodes and verifying proofs. Its goal is to create a “Bitcoin-backed internet,” extending Bitcoin’s utility to scalable, decentralized systems.
+- Currently, LayerEdge runs an incentivized testnet (Season 2 Browser-based nodes ends on 22nd. CLI-based nodes & Testnet Phase II ends on 25th March), where users earn EDGE points by running nodes and verifying proofs. Its goal is to create a “Bitcoin-backed internet,” extending Bitcoin’s utility to scalable, decentralized systems.
 - LayerEdge Season 1 (Jan 22 - Feb 28, 2025) was the first testnet phase, rewarding users with EDGE points for running light nodes (1 point/second, 50hrs uptime required) and completing tasks, testing network stability and decentralization.
 
 ## Funding 
