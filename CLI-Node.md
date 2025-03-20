@@ -66,6 +66,9 @@ cargo build && cargo run
 ```
 Keep this terminal open and running. You need it for the next step.
 
+![Screenshot 2025-03-20 081501](https://github.com/user-attachments/assets/7cc4fbc1-d088-4c22-9e8d-9cf9eb50a627)
+
+
 ## Open Another Window for WSL or VPS (do not close the previous one)
 
 1️⃣ Start Node
