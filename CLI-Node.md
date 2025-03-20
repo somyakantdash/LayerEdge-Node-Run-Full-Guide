@@ -32,6 +32,7 @@ rustc --version
 ```
 ```
 curl -L https://risczero.com/install | bash && ~/.cargo/bin/rzup install
+rzup install
 ```
 
 3️⃣ Download Some Files
